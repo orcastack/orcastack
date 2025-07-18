@@ -19,7 +19,7 @@ Expertise: <br/>
 • Security & Auth: OAuth, JWT <br/>
 • Development Methodologies: Agile (Scrum) <br/>
 
-
+<br/>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,nestjs,rabbitmq,kafka,postgres,mysql,mongodb,redis,graphql,elasticsearch,docker,git,github,linux,prometheus)](https://skillicons.dev)
